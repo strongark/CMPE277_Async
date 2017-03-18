@@ -11,4 +11,8 @@ public class SensorDriverActivity extends Activity {
         setContentView(R.layout.activity_sensor_driver);
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
 }
