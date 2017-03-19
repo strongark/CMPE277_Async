@@ -125,8 +125,8 @@ public class SensorDriverActivity extends Activity {
                 Integer remain_loop=loop_count-count;
                 _loopView.setText(remain_loop.toString());
                 _logView.append("Output "+count+"\n");
-                _logView.append("Temperature: "+temperature+"\n");
-                _logView.append("Humidity: "+humidity+"\n");
+                _logView.append("Temperature: "+temperature+" F"+"\n");
+                _logView.append("Humidity: "+humidity+"%"+"\n");
                 _logView.append("Activity "+activity+"\n");
                 _logView.append("-------------------------------\n");
                 _logView.setMovementMethod(new ScrollingMovementMethod());
