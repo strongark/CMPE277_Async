@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/HW4-AsyncTask/CMPE277_Async/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="989694bd94b6f28d8103a27c8dcf1c1ddeee12b2">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/HW4-AsyncTask/CMPE277_Async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd95417746a48284ba481ce17a8c2b990ed32eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/HW4-AsyncTask/CMPE277_Async/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1802be243dcfecb0d3ed6c6cc0c66e245b6fcae4">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/HW4-AsyncTask/CMPE277_Async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c69a049dfb9939ce412a1319194265190db3842b/classes.dex" />
+    </item>
+
+</items>
